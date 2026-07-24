@@ -1,12 +1,13 @@
 Package: com.flux.fluxui.npkgicons
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: Kyaero
+Depends: com.anemonetheming.anemone | com.spark.snowboard
 Filename: ./debs/FluxUI.deb
-Size: 6062556
-MD5sum: 576434f367ff4b383b42b3bd60e4f6a8
-SHA1: bf24a694f98b847e3e1b93b7911bf03b7a305f30
-SHA256: b8ebca394e7acdce52a170e5ed0958f2fdbaf803de6cd92a594c41cc48b711e6
+Size: 5734712
+MD5sum: d25897f41f335589321e015a53e092f6
+SHA1: 7a8d85935ad886ac96d337c14db76dd654298f76
+SHA256: 8df2271a8717ce42e47add10afc5e2f588fe3fba3a972fbf98b46ecb456ca05d
 Section: Themes
 Description: FluxUI icons for your iDevice.
 Author: Flux, Kyaero
