@@ -1,0 +1,14 @@
+Package: com.flux.fluxui.npkgicons
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Kyaero <kyaero@byflux.org>
+Pre-Depends: firmware (>= 7.0)
+Filename: debs/FluxUI.deb
+Size: 6062556
+Section: Themes
+Priority: standard
+Homepage: https://byflux.org
+Description: A command-line IPA app installer.
+Tag: role::enduser, purpose::console
+Author: Kyaero <kyaero@byflux.org>
+Name: FluxUI Icons
