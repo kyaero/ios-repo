@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: Kyaero
 Depends: com.anemonetheming.anemone | com.spark.snowboard
 Filename: ./debs/FluxUI.deb
-Size: 5734712
-MD5sum: d25897f41f335589321e015a53e092f6
-SHA1: 7a8d85935ad886ac96d337c14db76dd654298f76
-SHA256: 8df2271a8717ce42e47add10afc5e2f588fe3fba3a972fbf98b46ecb456ca05d
+Size: 6056682
+MD5sum: fad6a220f7d3f7a7a534957aa56e7351
+SHA1: 0dabd72800c2f3fbacd40bad95f136c78af344d0
+SHA256: add078cb65b3c660f755ff2a735aadda5d4a9d6f89d9580f623777fa4dfd009f
 Section: Themes
 Description: FluxUI icons for your iDevice.
 Author: Flux, Kyaero
