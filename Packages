@@ -1,3 +1,33 @@
+Package: com.atom.xia
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: bigos
+Depends: com.anemonetheming.anemone
+Filename: debs/Xia_32bit.deb
+Size: 2208528
+MD5sum: be749219549f5f0b8d9d86e8c568d0b1
+SHA1: df537ddc3765c4afd5ec810121f12b21b41b6a9b
+SHA256: d4bd61df747788b028954a052031b64d3866ebaacdf6b500ba824250ae5b6fcb
+Section: Themes
+Description: Xia concept design (excuse the ugly look lol)
+Author: bigos
+Name: Xia Beta
+
+Package: com.atom.xia
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: bigos
+Depends: com.spark.snowboard
+Filename: debs/Xia_64bit.deb
+Size: 2208688
+MD5sum: 5531e18da2b45b938df7ed3311d77eba
+SHA1: acf3fafe811372ae6fe54886b9f9339648eab6af
+SHA256: ede30fca0c20a696aa85cacb44181972d5770c08d9da54ae4b2d0f73b9ded20f
+Section: Themes
+Description: Xia concept design (excuse the ugly look lol)
+Author: bigos
+Name: Xia Beta
+
 Package: com.flux.fluxui.npkgicons
 Version: 1.3.1
 Architecture: iphoneos-arm
